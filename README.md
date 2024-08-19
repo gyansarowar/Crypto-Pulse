@@ -1,2 +1,2 @@
 # Live Project Link
-https://crypto-pulse-365.netlify.app/
+<a href="https://crypto-pulse-365.netlify.app/" target="_blank">https://crypto-pulse-365.netlify.app/</a>
